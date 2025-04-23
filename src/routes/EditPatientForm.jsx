@@ -103,14 +103,12 @@ export default function EditPatientForm() {
         <div className="mt-3 flex">
           <div className="grow"></div>
           <button
-            // className="bg-blue-500 px-2 text-white"
             className="mr-1 rounded border-2 border-[#3a92ff] bg-[#4a9bff] px-4 text-white hover:bg-[#2989ff]"
             type="submit"
           >
             Save
           </button>
           <button
-            // className="m-1 bg-slate-500 px-2 text-white"
             className="ml-1 rounded border-2 border-[#798da4] bg-[#8295aa] px-4 text-white hover:bg-[#70869e]"
             type="button"
             onClick={() => {

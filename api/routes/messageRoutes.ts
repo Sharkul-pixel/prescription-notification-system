@@ -58,8 +58,6 @@ router.post("/", async (req, res) => {
     },
   });
 
-  // console.log(message);
-
   res.json({ status: 200 });
 });
 
