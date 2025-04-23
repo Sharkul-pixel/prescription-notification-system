@@ -1,5 +1,6 @@
+## Getting Started
 
-Install Dependencies
+Install dependencies
 
 ```
 pip install lorem
@@ -7,4 +8,10 @@ pip install lorem
 
 ```
 pip install names
+```
+
+Run the Python script
+
+```
+python generate_random_data.py
 ```
